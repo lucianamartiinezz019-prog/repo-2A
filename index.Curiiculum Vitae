@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List</title>>
+</head>
+<body>
+    <b>Curriculum Vitae de Bruce Wyne</b><br>
+    <ul type="disc">
+        <h2>Datos Personales<br></h2>
+        <li>Nombre completo: Bruce Wayne</li>
+        <li>Fecha de nacimiento: 1/5/1939</li>
+        <li>Lugar de nacimiento: Gotham City</li>
+    </ul>
+
